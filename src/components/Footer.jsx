@@ -4,8 +4,9 @@ import styled from 'styled-components';
 function Footer() {
   return (
     <Foot><p>Created by Divyansh Sharma</p>
-    {/* <a href=''>github</a> */}
-    <a href='https://www.linkedin.com/in/divyansh-sharma-158b04193/'><u>linkedin</u></a>
+    <a href='https://github.com/Divyansh2134/Tesla-Clone.git'><u>github </u> &nbsp; </a>
+    &nbsp;
+    <a href='https://www.linkedin.com/in/divyansh-sharma-158b04193/'> <u> linkedin</u></a>
     </Foot>
   )
 }
